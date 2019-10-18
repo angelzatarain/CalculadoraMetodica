@@ -1,0 +1,15 @@
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\Calculadora1.csprojAssemblyReference.cache
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\MainWindow.g.cs
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\App.g.cs
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\Calculadora1_MarkupCompile.cache
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\Calculadora1_MarkupCompile.lref
+E:\DAI VB\Calculadora1\Calculadora1\bin\Debug\Calculadora1.exe.config
+E:\DAI VB\Calculadora1\Calculadora1\bin\Debug\Calculadora1.exe
+E:\DAI VB\Calculadora1\Calculadora1\bin\Debug\Calculadora1.pdb
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\MainWindow.baml
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\Calculadora1.g.resources
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\Calculadora1.Properties.Resources.resources
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\Calculadora1.csproj.GenerateResource.cache
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\Calculadora1.csproj.CoreCompileInputs.cache
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\Calculadora1.exe
+E:\DAI VB\Calculadora1\Calculadora1\obj\Debug\Calculadora1.pdb
